@@ -6,14 +6,14 @@ WebPack plugin that runs [jsdoc](http://usejsdoc.org/) on your bundles
 
 # Install
 ```
-npm i jsdoc-webpack-plugin-v2 --save
+npm i jsdoc-webpack-plugin-v4 --save
 ````
 
 # Usage
 In webpack.config.js:
 ```javascript
 var webpack = require('webpack');
-var JsDocPlugin = require('jsdoc-webpack-plugin-v2');
+var JsDocPlugin = require('jsdoc-webpack-plugin-v4');
 
 module.exports = {
     /// ... rest of config
