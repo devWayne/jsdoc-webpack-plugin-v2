@@ -1,4 +1,4 @@
-jsdoc-webpack-plugin-v2
+jsdoc-webpack-plugin-v4
 ==========================
 
 
